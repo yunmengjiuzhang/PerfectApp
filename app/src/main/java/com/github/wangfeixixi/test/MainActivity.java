@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         String a = "asfasf";
         String b = "asfasf";
+        String c = "asfasf";
     }
 }
